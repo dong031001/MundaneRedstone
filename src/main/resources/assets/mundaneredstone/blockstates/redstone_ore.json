@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "mundaneredstone:redstone_ore" }
+        "normal": { "model": "redstone_ore" }
     }
 }
